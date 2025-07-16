@@ -1,0 +1,16 @@
+{
+  "name": "simple-html-server",
+  "version": "1.0.0",
+  "description": "Simple Node.js server to serve an HTML file",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["nodejs", "html", "server"],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
